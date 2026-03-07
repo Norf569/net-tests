@@ -1,0 +1,8 @@
+C:\Users\ig\source\repos\net-tests\obj\Debug\net9.0\net-tests.csproj.AssemblyReference.cache
+C:\Users\ig\source\repos\net-tests\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ig\source\repos\net-tests\obj\Debug\net9.0\net-tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ig\source\repos\net-tests\obj\Debug\net9.0\net-tests.AssemblyInfoInputs.cache
+C:\Users\ig\source\repos\net-tests\obj\Debug\net9.0\net-tests.AssemblyInfo.cs
+C:\Users\ig\source\repos\net-tests\obj\Debug\net9.0\net-tests.csproj.CoreCompileInputs.cache
+C:\Users\ig\source\repos\net-tests\obj\Debug\net9.0\net-tests.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ig\source\repos\net-tests\obj\Debug\net9.0\net-tests.MvcApplicationPartsAssemblyInfo.cache
